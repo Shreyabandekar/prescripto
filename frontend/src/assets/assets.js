@@ -97,7 +97,7 @@ export const doctors = [
         fees: 50,
         address: {
             line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -111,7 +111,7 @@ export const doctors = [
         fees: 60,
         address: {
             line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -125,7 +125,7 @@ export const doctors = [
         fees: 30,
         address: {
             line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road,Bangalore'
         }
     },
     {
@@ -139,7 +139,7 @@ export const doctors = [
         fees: 40,
         address: {
             line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -152,7 +152,7 @@ export const doctors = [
         about: 'Dr. Jennifer has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         address: {
             line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -166,7 +166,7 @@ export const doctors = [
         fees: 50,
         address: {
             line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -179,7 +179,7 @@ export const doctors = [
         about: 'Dr. Christopher has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         address: {
             line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -193,7 +193,7 @@ export const doctors = [
          fees: 60,
         address: {
             line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -207,7 +207,7 @@ export const doctors = [
         fees: 30,
         address: {
             line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -221,7 +221,7 @@ export const doctors = [
         fees: 40,
         address: {
             line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -235,7 +235,7 @@ export const doctors = [
         fees: 50,
         address: {
             line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -249,7 +249,7 @@ export const doctors = [
         fees: 50,
         address: {
             line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -263,7 +263,7 @@ export const doctors = [
         fees: 50,
         address: {
             line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -277,7 +277,7 @@ export const doctors = [
         fees: 60,
         address: {
             line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     {
@@ -291,7 +291,7 @@ export const doctors = [
         fees: 30,
         address: {
             line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line2: 'Circle, Ring Road, Bangalore'
         }
     },
     
